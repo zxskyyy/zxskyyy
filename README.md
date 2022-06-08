@@ -2,7 +2,9 @@
 Hello, my name is Peter, I'm 16 years old boi.
 
 ### Public respositories for use 💻
-[discord](discord.com)
+[Simple Login in Python Code](https://github.com/anzesk/SimpleLogin)
+[QRCode Generator in Python Code](https://github.com/anzesk/QRCodeGenerator)
+[Windows 10 Activator in .bat](https://github.com/anzesk/windows-10-activation-script)
 
 ### Contact 📫
 Discord: anzesk#0797
