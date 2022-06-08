@@ -6,7 +6,7 @@ Hello, my name is Peter, I'm 16 years old boi.
 
 [QRCode Generator in Python Code](https://github.com/anzesk/QRCodeGenerator)
 
-[Windows 10 Activator in .bat](https://github.com/anzesk/windows-10-activation-script)
+[Windows 10 Activator in Batch Program](https://github.com/anzesk/windows-10-activation-script)
 
 ### Contact 📫
 Discord: anzesk#0797
