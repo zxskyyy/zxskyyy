@@ -1,5 +1,5 @@
 ### Hello! 👋
-- <i>My name is <b>Peter</b>, I'm 16 years old boi.</i>
+- <i>My name is <b>Peter</b>, I'm <b>16</b> years old boi.</i>
 
 ### Public respositories for use 💻
 - [Simple Login in Python Code](https://github.com/anzesk/SimpleLogin)
