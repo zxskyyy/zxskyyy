@@ -1,5 +1,5 @@
 ### Hello! 👋
-Hello, my name is Peter, I'm 16 years old boi.
+- My name is Peter, I'm 16 years old boi.
 
 ### Public respositories for use 💻
 - [Simple Login in Python Code](https://github.com/anzesk/SimpleLogin)
@@ -11,7 +11,7 @@ Hello, my name is Peter, I'm 16 years old boi.
 - [Windows 10 Activator in Batch Program](https://github.com/anzesk/windows-10-activation-script)
 
 ### Contact 📫
-Discord: anzesk#0797
+- <b>Discord:</b> <i>anzesk#0797</i>
 
 ## Languages i use ⚡
 <img src="https://github-readme-stats.vercel.app/api?username=anzesk&count_private=true&show_icons=true&theme=dark" /> 
