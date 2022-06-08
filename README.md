@@ -1,6 +1,9 @@
 ### Hello! 👋
 Hello, my name is Peter, I'm 16 years old boi.
 
+### Public respositories for use 💻
+[discord](discord.com)
+
 ### Contact 📫
 Discord: anzesk#0797
 
