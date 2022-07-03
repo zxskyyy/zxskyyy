@@ -11,7 +11,7 @@
 - [Windows 10 Activator in Batch Program](https://github.com/anzesk/windows-10-activation-script)
 
 ### Contact 📫
-- <b>Discord:</b> <i>anzesk#0797</i>
+- <b>Discord:</b> <i>zesky.#0797</i>
 
 ## Languages i use ⚡
 <img src="https://github-readme-stats.vercel.app/api?username=anzesk&count_private=true&show_icons=true&theme=dark" /> 
