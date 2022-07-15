@@ -1,17 +1,5 @@
-### Hello! 👋
-- <i>My name is <b>Peter</b>, I'm <b>16</b> years old boi.</i>
-
-### Public respositories for use 💻
-- [Simple Login in Python Code](https://github.com/anzesk/SimpleLogin)
-
-- [QRCode Generator in Python Code](https://github.com/anzesk/QRCodeGenerator)
-
-- [Youtube Video Downloader in Python Code](https://github.com/anzesk/YoutubeDownloader)
-
-- [Windows 10 Activator in Batch Program](https://github.com/anzesk/windows-10-activation-script)
-
 ### Contact 📫
-- <b>Discord:</b> <i>coming soon</i>
+- <b>Discord:</b> <i>zxsky.#6681</i>
 
 ## Languages i use ⚡
 <img src="https://github-readme-stats.vercel.app/api?username=anzesk&count_private=true&show_icons=true&theme=dark" /> 
