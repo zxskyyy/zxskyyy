@@ -1,5 +1,5 @@
 ### Contact 📫
-- <b>Discord:</b> <i>zxsky.#6681</i>
+- <b>Discord:</b> <i>nothing</i>
 
 ## Languages i use ⚡
 <img src="https://github-readme-stats.vercel.app/api?username=zxskyyy&count_private=true&show_icons=true&theme=dark" /> 
